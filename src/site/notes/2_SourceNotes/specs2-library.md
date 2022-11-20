@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-notes/specs2-library/","tags":["n/source","gardenEntry"]}
+{"dg-publish":true,"permalink":"/2-source-notes/specs2-library/"}
 ---
 
 
